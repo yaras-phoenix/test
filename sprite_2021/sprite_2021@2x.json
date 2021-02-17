@@ -1,0 +1,58 @@
+{
+  "135_1": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 26,
+    "x": 234,
+    "y": 68
+  },
+  "135_2": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 68,
+    "x": 0,
+    "y": 0
+  },
+  "135_3": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 68,
+    "x": 68,
+    "y": 0
+  },
+  "hatch": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 42,
+    "x": 192,
+    "y": 68
+  },
+  "kindergarden": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 68
+  },
+  "photo": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 48,
+    "y": 68
+  },
+  "school": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 96,
+    "y": 68
+  },
+  "video": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 144,
+    "y": 68
+  }
+}
