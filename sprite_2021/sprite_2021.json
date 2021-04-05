@@ -1,0 +1,114 @@
+{
+  "111111": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 144,
+    "x": 292,
+    "y": 0
+  },
+  "135_1": {
+    "height": 13,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 287,
+    "y": 98
+  },
+  "135_2": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 513,
+    "y": 0
+  },
+  "135_3": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 547,
+    "y": 0
+  },
+  "602010101-1": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 77,
+    "x": 436,
+    "y": 0
+  },
+  "603011602": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 0,
+    "y": 98
+  },
+  "603011602_2": {
+    "height": 32,
+    "pixelRatio": 1,
+    "width": 32,
+    "x": 32,
+    "y": 98
+  },
+  "603011602_3": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 64,
+    "y": 98
+  },
+  "603011602_4": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 88,
+    "y": 98
+  },
+  "hatch": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 208,
+    "y": 98
+  },
+  "kindergarden": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 112,
+    "y": 98
+  },
+  "liquidation": {
+    "height": 98,
+    "pixelRatio": 1,
+    "width": 292,
+    "x": 0,
+    "y": 0
+  },
+  "liquidation_small": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 58,
+    "x": 229,
+    "y": 98
+  },
+  "photo": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 136,
+    "y": 98
+  },
+  "school": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 160,
+    "y": 98
+  },
+  "video": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 184,
+    "y": 98
+  }
+}
