@@ -1,0 +1,142 @@
+{
+  "111111": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 144,
+    "x": 292,
+    "y": 0
+  },
+  "135_1": {
+    "height": 13,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 297,
+    "y": 98
+  },
+  "135_2": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 513,
+    "y": 0
+  },
+  "135_3": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 547,
+    "y": 0
+  },
+  "602010101-1": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 77,
+    "x": 436,
+    "y": 0
+  },
+  "603011501": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 175,
+    "y": 98
+  },
+  "603011502": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 193,
+    "y": 98
+  },
+  "603011602": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 211,
+    "y": 98
+  },
+  "603011603": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 229,
+    "y": 98
+  },
+  "603011603_2": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 247,
+    "y": 98
+  },
+  "605010101": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 265,
+    "y": 98
+  },
+  "605010101_2": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 281,
+    "y": 98
+  },
+  "605010103": {
+    "height": 12,
+    "pixelRatio": 1,
+    "width": 12,
+    "x": 310,
+    "y": 98
+  },
+  "hatch": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 96,
+    "y": 98
+  },
+  "kindergarden": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 98
+  },
+  "liquidation": {
+    "height": 98,
+    "pixelRatio": 1,
+    "width": 292,
+    "x": 0,
+    "y": 0
+  },
+  "liquidation_small": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 58,
+    "x": 117,
+    "y": 98
+  },
+  "photo": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 98
+  },
+  "school": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 98
+  },
+  "video": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 98
+  }
+}
