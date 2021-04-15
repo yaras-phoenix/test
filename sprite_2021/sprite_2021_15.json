@@ -1,0 +1,170 @@
+{
+  "111111": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 144,
+    "x": 292,
+    "y": 0
+  },
+  "135_1": {
+    "height": 13,
+    "pixelRatio": 1,
+    "width": 13,
+    "x": 353,
+    "y": 98
+  },
+  "135_2": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 513,
+    "y": 0
+  },
+  "135_3": {
+    "height": 34,
+    "pixelRatio": 1,
+    "width": 34,
+    "x": 547,
+    "y": 0
+  },
+  "602010101-1": {
+    "height": 76,
+    "pixelRatio": 1,
+    "width": 77,
+    "x": 436,
+    "y": 0
+  },
+  "603011501": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 219,
+    "y": 98
+  },
+  "603011502": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 237,
+    "y": 98
+  },
+  "603011602": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 255,
+    "y": 98
+  },
+  "603011603": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 273,
+    "y": 98
+  },
+  "603011603-2": {
+    "height": 18,
+    "pixelRatio": 1,
+    "width": 18,
+    "x": 291,
+    "y": 98
+  },
+  "605010101": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 22,
+    "x": 96,
+    "y": 98
+  },
+  "605010103": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 325,
+    "y": 98
+  },
+  "605010104": {
+    "height": 14,
+    "pixelRatio": 1,
+    "width": 14,
+    "x": 339,
+    "y": 98
+  },
+  "605010105": {
+    "height": 10,
+    "pixelRatio": 1,
+    "width": 10,
+    "x": 366,
+    "y": 98
+  },
+  "605010106": {
+    "height": 10,
+    "pixelRatio": 1,
+    "width": 10,
+    "x": 376,
+    "y": 98
+  },
+  "605010107": {
+    "height": 22,
+    "pixelRatio": 1,
+    "width": 22,
+    "x": 118,
+    "y": 98
+  },
+  "606010101": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 309,
+    "y": 98
+  },
+  "hatch": {
+    "height": 21,
+    "pixelRatio": 1,
+    "width": 21,
+    "x": 140,
+    "y": 98
+  },
+  "kindergarden": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 98
+  },
+  "liquidation": {
+    "height": 98,
+    "pixelRatio": 1,
+    "width": 292,
+    "x": 0,
+    "y": 0
+  },
+  "liquidation_small": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 58,
+    "x": 161,
+    "y": 98
+  },
+  "photo": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 98
+  },
+  "school": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 98
+  },
+  "video": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
+    "y": 98
+  }
+}
