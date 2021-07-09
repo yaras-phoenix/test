@@ -1,0 +1,30 @@
+{
+  "nastil": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 8,
+    "y": 0
+  },
+  "nastil2": {
+    "height": 3,
+    "pixelRatio": 1,
+    "width": 3,
+    "x": 8,
+    "y": 8
+  },
+  "pdl_stairway": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 0,
+    "y": 8
+  },
+  "pdl_stairway2": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 0,
+    "y": 0
+  }
+}
