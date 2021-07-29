@@ -1,0 +1,44 @@
+{
+  "nastil": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 0,
+    "y": 8
+  },
+  "nastil2": {
+    "height": 3,
+    "pixelRatio": 1,
+    "width": 3,
+    "x": 20,
+    "y": 8
+  },
+  "pdl_stairway": {
+    "height": 4,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 12,
+    "y": 8
+  },
+  "pdl_stairway2": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 0,
+    "y": 0
+  },
+  "plitka": {
+    "height": 8,
+    "pixelRatio": 1,
+    "width": 8,
+    "x": 8,
+    "y": 0
+  },
+  "scheben": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 6,
+    "y": 8
+  }
+}
