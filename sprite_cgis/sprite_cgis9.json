@@ -1,0 +1,65 @@
+{
+  "grunt2": {
+    "height": 10,
+    "pixelRatio": 2,
+    "width": 10,
+    "x": 24,
+    "y": 16
+  },
+  "nastil": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 0,
+    "y": 16
+  },
+  "nastil2": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 58,
+    "y": 16
+  },
+  "pdl_stairway": {
+    "height": 8,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 34,
+    "y": 16
+  },
+  "pdl_stairway2": {
+    "height": 16,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "pesok": {
+    "height": 8,
+    "pixelRatio": 2,
+    "width": 8,
+    "x": 50,
+    "y": 16
+  },
+  "pesok2": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 32,
+    "y": 0
+  },
+  "plitka": {
+    "height": 16,
+    "pixelRatio": 2,
+    "width": 16,
+    "x": 16,
+    "y": 0
+  },
+  "scheben": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 12,
+    "y": 16
+  }
+}
