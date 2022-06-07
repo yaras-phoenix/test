@@ -1,0 +1,261 @@
+{
+	"1": {
+		"height": 18,
+		"width": 15,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 0
+	},
+	"1": {
+		"height": 18,
+		"width": 15,
+		"pixelRatio": 1,
+		"x": 15,
+		"y": 0
+	},
+	"2": {
+		"height": 18,
+		"width": 12,
+		"pixelRatio": 1,
+		"x": 30,
+		"y": 0
+	},
+	"2": {
+		"height": 18,
+		"width": 12,
+		"pixelRatio": 1,
+		"x": 42,
+		"y": 0
+	},
+	"3": {
+		"height": 18,
+		"width": 13,
+		"pixelRatio": 1,
+		"x": 54,
+		"y": 0
+	},
+	"3": {
+		"height": 18,
+		"width": 13,
+		"pixelRatio": 1,
+		"x": 67,
+		"y": 0
+	},
+	"4": {
+		"height": 18,
+		"width": 13,
+		"pixelRatio": 1,
+		"x": 80,
+		"y": 0
+	},
+	"4": {
+		"height": 18,
+		"width": 14,
+		"pixelRatio": 1,
+		"x": 93,
+		"y": 0
+	},
+	"5": {
+		"height": 18,
+		"width": 12,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 18
+	},
+	"5": {
+		"height": 18,
+		"width": 12,
+		"pixelRatio": 1,
+		"x": 12,
+		"y": 18
+	},
+	"6": {
+		"height": 18,
+		"width": 15,
+		"pixelRatio": 1,
+		"x": 24,
+		"y": 18
+	},
+	"7": {
+		"height": 18,
+		"width": 15,
+		"pixelRatio": 1,
+		"x": 39,
+		"y": 18
+	},
+	"GEO_FONAR": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 54,
+		"y": 18
+	},
+	"GEO_INTERSECTION": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 72,
+		"y": 18
+	},
+	"V_PORTAL_INTERSECTION_0": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 36
+	},
+	"V_PORTAL_INTERSECTION_04": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 18,
+		"y": 36
+	},
+	"V_PORTAL_INTERSECTION_10": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 36,
+		"y": 36
+	},
+	"V_PORTAL_INTERSECTION_110": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 54,
+		"y": 36
+	},
+	"V_PORTAL_INTERSECTION_15": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 72,
+		"y": 36
+	},
+	"V_PORTAL_INTERSECTION_330": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 54
+	},
+	"V_PORTAL_INTERSECTION_35": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 18,
+		"y": 54
+	},
+	"V_PORTAL_INTERSECTION_6": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 36,
+		"y": 54
+	},
+	"V_PORTAL_INTERSECTION_60": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 54,
+		"y": 54
+	},
+	"accident": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 72,
+		"y": 54
+	},
+	"avarijnijzapas": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 72
+	},
+	"blue_home": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 18,
+		"y": 72
+	},
+	"cam": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 36,
+		"y": 72
+	},
+	"ezs": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 54,
+		"y": 72
+	},
+	"geo_fwc": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 72,
+		"y": 72
+	},
+	"green_home": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 90
+	},
+	"personal": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 18,
+		"y": 90
+	},
+	"povrezhdenie_kl": {
+		"height": 18,
+		"width": 20,
+		"pixelRatio": 1,
+		"x": 36,
+		"y": 90
+	},
+	"remontnayabrigada": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 56,
+		"y": 90
+	},
+	"rp2020": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 74,
+		"y": 90
+	},
+	"spectrechnica": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 0,
+		"y": 108
+	},
+	"yellow_home": {
+		"height": 18,
+		"width": 18,
+		"pixelRatio": 1,
+		"x": 18,
+		"y": 108
+	},
+	"switch": {
+		"height": 10,
+		"width": 8,
+		"pixelRatio": 1,
+		"x": 36,
+		"y": 108
+	}
+}
